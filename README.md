@@ -11,7 +11,7 @@ More details will be updated if the manuscript is possibly accepted for publicat
 First create a conda environment, such as named QuAInth.
 
 ```
-conda create -n QuAInth python=3.11.0
+conda create -n QuAInth python=3.11.7
 ```
 
 Then, activate the environment and install the packages in `requirement.txt`.
