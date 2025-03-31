@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository incorporates the artifact involved in the manuscript 'QuAInth: A Code Annotation Approach for Application-oriented Quantum Programs via N-version LLMs'.  
+This repository incorporates the artifact involved in the manuscript '*QuAInth: A Code Annotation Approach for Application-oriented Quantum Programs via N-version LLMs*'.  
 
 More details will be updated if the manuscript is possibly accepted for publication.
 
