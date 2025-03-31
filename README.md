@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository incorporates the artifact involved in the manuscript ''.  
+This repository incorporates the artifact involved in the manuscript 'QuAInth: A Code Annotation Approach for Application-oriented Quantum Programs via N-version LLMs'.  
 
 More details will be updated if the manuscript is possibly accepted for publication.
 
@@ -24,8 +24,12 @@ pip install -r requirement.txt
 Here are the requirements:
 
 ```
-numpy==
-pandas==
+transformers >=4.49.0
+torch >=2.5.1
+qiskit >= 0.45.1
+nltk >= 3.9.1
+scikit-learn >= 1.5.2
+rouge_score >= 0.1.2
 ```
 
 ## Code
