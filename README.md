@@ -74,6 +74,6 @@ The generated annotations will be saved in a .txt file with the following format
 
 Scoring codes are shown in `evaluate`.
 
-- `rogue.py`, `cos.py`, `judge.py` and `total_score.py: Compute _RF1_, _CS_, _QS_ and _FS_ for generated annotations.
+- `rogue.py`, `cos.py`, `judge.py` and `total_score.py`: Compute _RF1_, _CS_, _QS_ and _FS_ for generated annotations.
 
 - `combine.py`: This script uses `NumPy` and `scikit-learn` to perform weighted text fusion based on their importance scores.
